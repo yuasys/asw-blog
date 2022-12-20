@@ -1,6 +1,10 @@
 # README.md
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
+
+## 次にやること：カスタマイズ
+
+現時点2022-12-21での最新版はNext.js １３で、GitHub-Pagesデプロイ自動化設定がとても楽になりました。具体的には
 
 ## Getting Started
 
