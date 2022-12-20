@@ -19,14 +19,79 @@ export default function Home() {
           <h1>AdSignWebサンプル集</h1>
         </div>
         <div className={styles.grid}>
-          <a
+        <a
             href="#"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Docs <span>-&gt;</span>
+              サンプル01 <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Find in-depth information about Next.js features and&nbsp;API.
+            </p>
+          </a>
+        <a
+            href="#"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className={inter.className}>
+              サンプル02 <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Find in-depth information about Next.js features and&nbsp;API.
+            </p>
+          </a>
+        <a
+            href="#"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className={inter.className}>
+              サンプル03 <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Find in-depth information about Next.js features and&nbsp;API.
+            </p>
+          </a>
+        <a
+            href="#"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className={inter.className}>
+              サンプル04 <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Find in-depth information about Next.js features and&nbsp;API.
+            </p>
+          </a>
+        <a
+            href="#"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className={inter.className}>
+              サンプル05 <span>-&gt;</span>
+            </h2>
+            <p className={inter.className}>
+              Find in-depth information about Next.js features and&nbsp;API.
+            </p>
+          </a>
+        <a
+            href="#"
+            className={styles.card}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className={inter.className}>
+              サンプル06 <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Find in-depth information about Next.js features and&nbsp;API.
