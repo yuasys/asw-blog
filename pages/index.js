@@ -1,9 +1,9 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from '@next/font/google'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import Image from "next/image";
+import { Inter } from "@next/font/google";
+import styles from "../styles/Home.module.css";
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
@@ -19,7 +19,7 @@ export default function Home() {
           <h1>AdSignWebサンプル集</h1>
         </div>
         <div className={styles.grid}>
-        <a
+          <a
             href="#"
             className={styles.card}
             target="_blank"
@@ -32,7 +32,7 @@ export default function Home() {
               Find in-depth information about Next.js features and&nbsp;API.
             </p>
           </a>
-        <a
+          <a
             href="#"
             className={styles.card}
             target="_blank"
@@ -45,7 +45,7 @@ export default function Home() {
               Find in-depth information about Next.js features and&nbsp;API.
             </p>
           </a>
-        <a
+          <a
             href="#"
             className={styles.card}
             target="_blank"
@@ -58,7 +58,7 @@ export default function Home() {
               Find in-depth information about Next.js features and&nbsp;API.
             </p>
           </a>
-        <a
+          <a
             href="#"
             className={styles.card}
             target="_blank"
@@ -71,7 +71,7 @@ export default function Home() {
               Find in-depth information about Next.js features and&nbsp;API.
             </p>
           </a>
-        <a
+          <a
             href="#"
             className={styles.card}
             target="_blank"
@@ -84,7 +84,7 @@ export default function Home() {
               Find in-depth information about Next.js features and&nbsp;API.
             </p>
           </a>
-        <a
+          <a
             href="#"
             className={styles.card}
             target="_blank"
@@ -100,5 +100,5 @@ export default function Home() {
         </div>
       </main>
     </>
-  )
+  );
 }

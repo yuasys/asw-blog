@@ -13,7 +13,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### ファビコンをカスタマイズする
 
-既定のファビコン画像などは<i>project-dir</i>/public/favicon.icoにあるので、同じディレクトリに表示したい画像を入れ、Next標準で内蔵されているHeadコンポネントに下記のようにコーディングするだけで実装出来る。    
+既定のファビコン画像などは<i>project-dir</i>/public/favicon.icoにあるので、同じディレクトリに表示したい画像を入れ、Next標準で内蔵されているHeadコンポネントに下記のようにコーディングするだけで実装出来る。  
 
 [注意】画像までのpathは相対パスで書くと便利。実態ベースでpublic直下に置いたものは直接"<i>imagefile-name</i>"のように書く。  
 "<i>/imagefile-name</i>"のように頭に"/"をつけると、ローカルでは上手く表示できるが、デプロイすると表示できないので注意する。  
