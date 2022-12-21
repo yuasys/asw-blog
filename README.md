@@ -11,6 +11,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![Pages設定手順](public/GitHub-Actions.png)
 上の図に従いGitHub Actionsを選択すると、自動でNext.jsの存在を認識してくれ「Nest．js設定」を推奨してくれるので、そこに表示されたボタンを押下して、現れた画面の緑色のボタン（コミットと確認の２つ）を押下してコミットするだけで、ほぼ<b>自動的に設定作業が済んでしまいます</b>。
 
+### タブアイコンをカスタマイズする
+
+既定のアイコン画像は<i>project-dir</i>/public/favicon.icoに置かれている。
+
 ## Getting Started
 
 First, run the development server:
